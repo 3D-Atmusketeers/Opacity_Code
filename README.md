@@ -50,7 +50,7 @@ Although this file is called by choose_opacity.py, it can be run on its own. You
 
 If you import regrid.py as regrid, then the function itself is regrid.regrid —— sorry. 
 
-There are 5 parameters needed — starting wavelength, ending wavelength, name of file, temperature type, and path. All are commented in the regrid.py file, but it is important to note that the conventions are the same as for the choose_opacity.py file. 
+There are 4 parameters needed — starting wavelength, ending wavelength, name of file, and path. All are commented in the regrid.py file, but it is important to note that the conventions are the same as for the choose_opacity.py file. 
 
 
 
